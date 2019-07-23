@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:ExternalDataProcessor xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="8cfeee77-79ab-44b6-a3f6-0be1acdb635a">
+  <producedTypes>
+    <objectType typeId="7cc1f73b-a113-410d-846d-d3304b3e5d88" valueTypeId="ff827a87-f7fd-4d82-9008-b28d31547fb3"/>
+  </producedTypes>
+  <name>ЗаполнитьПараметрыНоменклатуры</name>
+  <synonym>
+    <key>ru</key>
+    <value>Заполнить параметры номенклатуры</value>
+  </synonym>
+  <containedObjects classId="c3831ec8-d8d5-4f93-8a22-f9bfae07327f" objectId="313f9cfd-3567-4044-8a6d-41cd19bea155"/>
+  <defaultForm>ExternalDataProcessor.ЗаполнитьПараметрыНоменклатуры.Form.Форма</defaultForm>
+  <forms uuid="3513a0c1-a5ce-406b-a5b9-47792fe83291">
+    <name>Форма</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма</value>
+    </synonym>
+    <formType>Ordinary</formType>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+</mdclass:ExternalDataProcessor>

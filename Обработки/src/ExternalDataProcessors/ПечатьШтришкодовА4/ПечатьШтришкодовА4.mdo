@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:ExternalDataProcessor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="d522a847-932f-448e-b16d-20dbfbdf39db">
+  <producedTypes>
+    <objectType typeId="ad6c4992-f7e3-4b26-ad4f-8519e7b70891" valueTypeId="809ffb94-36c5-4407-8257-7568f917ae45"/>
+  </producedTypes>
+  <name>ПечатьШтришкодовА4</name>
+  <synonym>
+    <key>ru</key>
+    <value>Печать штришкодов A4 7x3</value>
+  </synonym>
+  <containedObjects classId="c3831ec8-d8d5-4f93-8a22-f9bfae07327f" objectId="4d754405-0b41-40fb-9df8-06d513732ea0"/>
+  <defaultForm>ExternalDataProcessor.ПечатьШтришкодовА4.Form.Форма</defaultForm>
+  <attributes uuid="d70d5e20-c091-43cf-a550-2603bc0adba2">
+    <name>СсылкаНаОбъект</name>
+    <synonym>
+      <key>ru</key>
+      <value>Ссылка на объект</value>
+    </synonym>
+    <type>
+      <types>DocumentRef.ЗаказПоставщикуСборный</types>
+      <types>DocumentRef.ОтложенныйТовар</types>
+      <types>DocumentRef.ПоступлениеТоваровУслуг</types>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+  </attributes>
+  <forms uuid="59f4d0a7-f656-47a9-bf31-ad3109b83e19">
+    <name>Форма</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма</value>
+    </synonym>
+    <formType>Ordinary</formType>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+  <forms uuid="4decdcd3-5d39-405b-a257-10cc847da4aa">
+    <name>Форма1</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма1</value>
+    </synonym>
+    <formType>Ordinary</formType>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+  <templates uuid="d4c15065-ffbe-4420-92fa-a96d5f005988">
+    <name>_11</name>
+    <synonym>
+      <key>ru</key>
+      <value>11</value>
+    </synonym>
+  </templates>
+  <templates uuid="39cf43ac-5439-4216-a698-bce0111b96d1">
+    <name>_12</name>
+    <synonym>
+      <key>ru</key>
+      <value>12</value>
+    </synonym>
+  </templates>
+  <templates uuid="166f063d-71e8-4424-958a-65244175e748">
+    <name>_13</name>
+    <synonym>
+      <key>ru</key>
+      <value>13</value>
+    </synonym>
+  </templates>
+  <templates uuid="0458666f-938f-4b4a-a983-e2078baf142a">
+    <name>_21</name>
+    <synonym>
+      <key>ru</key>
+      <value>21</value>
+    </synonym>
+  </templates>
+  <templates uuid="a461a90a-e3b2-4cb7-8003-3a39a208c6f9">
+    <name>_22</name>
+    <synonym>
+      <key>ru</key>
+      <value>22</value>
+    </synonym>
+  </templates>
+  <templates uuid="6c59d91e-b9d2-428c-a13c-572ccdbc4e74">
+    <name>_23</name>
+    <synonym>
+      <key>ru</key>
+      <value>23</value>
+    </synonym>
+  </templates>
+  <templates uuid="5cc56590-9696-42c2-992c-c4489f984713">
+    <name>_31</name>
+    <synonym>
+      <key>ru</key>
+      <value>31</value>
+    </synonym>
+  </templates>
+  <templates uuid="34b55878-4b47-4586-9393-4a48c7e247b7">
+    <name>_32</name>
+    <synonym>
+      <key>ru</key>
+      <value>32</value>
+    </synonym>
+  </templates>
+  <templates uuid="0f4097f8-4b18-46f8-a510-9f25fcd7a93c">
+    <name>_33</name>
+    <synonym>
+      <key>ru</key>
+      <value>33</value>
+    </synonym>
+  </templates>
+  <templates uuid="2e1fc97f-ed16-4c66-95f7-3ec061062932">
+    <name>_111</name>
+    <synonym>
+      <key>ru</key>
+      <value>111</value>
+    </synonym>
+  </templates>
+  <templates uuid="76a5ab50-377c-4d13-aae0-49c1abc4e16e">
+    <name>_112</name>
+    <synonym>
+      <key>ru</key>
+      <value>112</value>
+    </synonym>
+  </templates>
+  <templates uuid="e3f12d24-c571-462d-850c-6523d152b9ec">
+    <name>_113</name>
+    <synonym>
+      <key>ru</key>
+      <value>113</value>
+    </synonym>
+  </templates>
+  <templates uuid="f0c078c3-41c6-43a8-bc59-a9584d0eb342">
+    <name>_121</name>
+    <synonym>
+      <key>ru</key>
+      <value>121</value>
+    </synonym>
+  </templates>
+  <templates uuid="66dce6a9-4ec6-4e45-bd30-1817ad3f2568">
+    <name>_122</name>
+    <synonym>
+      <key>ru</key>
+      <value>122</value>
+    </synonym>
+  </templates>
+  <templates uuid="df29358f-93e7-4be5-88dc-7aad6bd14204">
+    <name>_123</name>
+    <synonym>
+      <key>ru</key>
+      <value>123</value>
+    </synonym>
+  </templates>
+  <templates uuid="0bb7c88f-2e1a-4d28-b9fd-51d777f133c2">
+    <name>_131</name>
+    <synonym>
+      <key>ru</key>
+      <value>131</value>
+    </synonym>
+  </templates>
+  <templates uuid="71db3061-2066-440f-b775-f2bdfab6b89f">
+    <name>_132</name>
+    <synonym>
+      <key>ru</key>
+      <value>132</value>
+    </synonym>
+  </templates>
+  <templates uuid="c96e772a-a31e-4c60-b365-4df87768f8cd">
+    <name>_133</name>
+    <synonym>
+      <key>ru</key>
+      <value>133</value>
+    </synonym>
+  </templates>
+  <templates uuid="ad2826e4-77ff-4974-ac01-35556b4818e2">
+    <name>_211</name>
+    <synonym>
+      <key>ru</key>
+      <value>211</value>
+    </synonym>
+  </templates>
+  <templates uuid="8435eb8f-e3e4-4696-b5f4-66c86cf8c51e">
+    <name>_212</name>
+    <synonym>
+      <key>ru</key>
+      <value>212</value>
+    </synonym>
+  </templates>
+  <templates uuid="e6fd3fbf-439d-451b-b2ec-7645f23bee26">
+    <name>_213</name>
+    <synonym>
+      <key>ru</key>
+      <value>213</value>
+    </synonym>
+  </templates>
+  <templates uuid="70deb16c-e80e-4016-892d-f6953baba63a">
+    <name>_221</name>
+    <synonym>
+      <key>ru</key>
+      <value>221</value>
+    </synonym>
+  </templates>
+  <templates uuid="480f0217-335f-464c-bc44-8cb884d242ec">
+    <name>_222</name>
+    <synonym>
+      <key>ru</key>
+      <value>222</value>
+    </synonym>
+  </templates>
+  <templates uuid="1468e034-2549-4cbf-8893-80afe879553e">
+    <name>_223</name>
+    <synonym>
+      <key>ru</key>
+      <value>223</value>
+    </synonym>
+  </templates>
+  <templates uuid="b83a6549-d068-4886-9c59-94bbf0765ef3">
+    <name>_231</name>
+    <synonym>
+      <key>ru</key>
+      <value>231</value>
+    </synonym>
+  </templates>
+  <templates uuid="c5395e2a-4b2d-4994-a10c-ed87c1d59f6f">
+    <name>_232</name>
+    <synonym>
+      <key>ru</key>
+      <value>232</value>
+    </synonym>
+  </templates>
+  <templates uuid="80957309-6a6b-4cb2-a1f9-aeb23060f23e">
+    <name>_233</name>
+    <synonym>
+      <key>ru</key>
+      <value>233</value>
+    </synonym>
+  </templates>
+</mdclass:ExternalDataProcessor>

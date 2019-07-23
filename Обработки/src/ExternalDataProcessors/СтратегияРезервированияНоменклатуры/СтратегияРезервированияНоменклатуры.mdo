@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:ExternalDataProcessor xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="150554c2-f3b9-49aa-8ae9-21c102eb3468">
+  <producedTypes>
+    <objectType typeId="729d2c69-bfa2-451f-9528-ed98a30f1ae5" valueTypeId="00a4dc47-2108-4b77-8083-8e7f662b66d9"/>
+  </producedTypes>
+  <name>СтратегияРезервированияНоменклатуры</name>
+  <synonym>
+    <key>ru</key>
+    <value>Стратегия резервирования номенклатуры</value>
+  </synonym>
+  <containedObjects classId="c3831ec8-d8d5-4f93-8a22-f9bfae07327f" objectId="4e823b84-a3b4-4ac7-8558-09ed98d8ac1f"/>
+  <defaultForm>ExternalDataProcessor.СтратегияРезервированияНоменклатуры.Form.Форма</defaultForm>
+  <forms uuid="eadda84d-0e52-44b2-9dc3-e07e1d0558d9">
+    <name>Форма</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма</value>
+    </synonym>
+    <formType>Ordinary</formType>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+</mdclass:ExternalDataProcessor>

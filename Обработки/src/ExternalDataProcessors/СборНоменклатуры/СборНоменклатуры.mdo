@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:ExternalDataProcessor xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="3fb8124e-5209-4cb0-b6c6-a17a24ad9c3a">
+  <producedTypes>
+    <objectType typeId="e7ce06a1-8148-4e81-a707-6246b702e2f3" valueTypeId="9b1685f0-7a2c-4d9b-b39d-fa1f8554d6b3"/>
+  </producedTypes>
+  <name>СборНоменклатуры</name>
+  <synonym>
+    <key>ru</key>
+    <value>СборНоменклатуры</value>
+  </synonym>
+  <containedObjects classId="c3831ec8-d8d5-4f93-8a22-f9bfae07327f" objectId="f35a47fa-7c9e-433d-8860-d7d3cb32eae2"/>
+  <defaultForm>ExternalDataProcessor.СборНоменклатуры.Form.Форма</defaultForm>
+  <forms uuid="a6e3ab38-0a22-4255-8fdc-d705cc38e842">
+    <name>Форма</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма</value>
+    </synonym>
+    <formType>Ordinary</formType>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+  <templates uuid="1bc1687e-7d64-4072-b982-df28d72d44ef">
+    <name>ОтложенныйТовар</name>
+    <synonym>
+      <key>ru</key>
+      <value>Отложенный товар</value>
+    </synonym>
+  </templates>
+  <templates uuid="c8fc3f43-f806-4f55-a982-a5a6e7686826">
+    <name>Комплектация</name>
+    <synonym>
+      <key>ru</key>
+      <value>Комплектация</value>
+    </synonym>
+  </templates>
+  <templates uuid="551b0ccb-bd52-479e-bb94-1f830db77d05">
+    <name>Подбор_ОтложенныйТовар</name>
+    <synonym>
+      <key>ru</key>
+      <value>Подбор_ОтложенныйТовар</value>
+    </synonym>
+  </templates>
+</mdclass:ExternalDataProcessor>
