@@ -3,13 +3,13 @@
   <producedTypes>
     <objectType typeId="e7ce06a1-8148-4e81-a707-6246b702e2f3" valueTypeId="9b1685f0-7a2c-4d9b-b39d-fa1f8554d6b3"/>
   </producedTypes>
-  <name>СборНоменклатуры</name>
+  <name>Приложение_по_откладыванию2</name>
   <synonym>
     <key>ru</key>
-    <value>СборНоменклатуры</value>
+    <value>Приложение по откладыванию2</value>
   </synonym>
   <containedObjects classId="c3831ec8-d8d5-4f93-8a22-f9bfae07327f" objectId="f35a47fa-7c9e-433d-8860-d7d3cb32eae2"/>
-  <defaultForm>ExternalDataProcessor.СборНоменклатуры.Form.Форма</defaultForm>
+  <defaultForm>ExternalDataProcessor.Приложение_по_откладыванию2.Form.Форма</defaultForm>
   <forms uuid="a6e3ab38-0a22-4255-8fdc-d705cc38e842">
     <name>Форма</name>
     <synonym>
